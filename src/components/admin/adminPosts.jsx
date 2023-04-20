@@ -1,14 +1,13 @@
 import React from "react";
 
-function Posts() {
+function AdminPosts() {
   return (
     <>
       <div>
-        <h1>Posts</h1>
-        Year: , Month:
+        <h1>Admin Posts</h1>
       </div>
     </>
   );
 }
 
-export default Posts;
+export default AdminPosts;
